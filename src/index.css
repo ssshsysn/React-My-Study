@@ -48,4 +48,11 @@ body {
   .game-info {
     margin-left: 20px;
   }
+
+  .selected-item-bold{
+    font-weight: bold;
+  }
   
+  .winner-cell{
+    background-color: yellow;
+  }
